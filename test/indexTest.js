@@ -1,4 +1,5 @@
-require ( './root.js' );
+require('./root.js');
+// import { name, height, message}from "../index.js"
 
 const { name, height, message } = require("../index.js");
 
